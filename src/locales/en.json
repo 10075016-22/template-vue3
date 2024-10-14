@@ -1,0 +1,23 @@
+{
+    "message": "Hello, world!",
+    "login": {
+        "EMAIL": "Email",
+        "PASSWORD": "Password",
+        "PLACEHOLDER_EMAIL": "Enter your email",
+        "PLACEHOLDER_PASSWORD": "Enter your password"
+    },
+    "buttons": {
+        "LOGIN": "Log in"
+    },
+    "messages": {
+        "OK": "Done!",
+        "ERROR": "Error!",
+        "INFO": "Information",
+        "WARNING": "Warning",
+        "LOGIN_SUCCESS": "Login successful",
+        "LOGIN_ERROR": "Login error",
+        "WELCOME_BACK": "Welcome back",
+        "SESSION_EXPIRED": "Your session has expired",
+        "LOGOUT_SUCCESS": "Logout successful"
+    }
+}

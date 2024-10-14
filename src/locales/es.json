@@ -1,0 +1,23 @@
+{
+    "message": "Hola, mundo!",
+    "login": {
+        "EMAIL": "Correo electrónico",
+        "PASSWORD": "Contraseña",
+        "PLACEHOLDER_EMAIL": "Ingrese su correo electrónico",
+        "PLACEHOLDER_PASSWORD": "Ingrese su contraseña"
+    },
+    "buttons": {
+        "LOGIN": "Iniciar sesión"
+    },
+    "messages": {
+        "OK": "¡Listo!",
+        "ERROR": "Error !",
+        "INFO": "Información",
+        "WARNING": "Advertencia",
+        "LOGIN_SUCCESS": "Inicio de sesión exitoso",
+        "LOGIN_ERROR": "Error en el inicio de sesión",
+        "WELCOME_BACK": "Bienvenido de vuelta",
+        "SESSION_EXPIRED": "Tu sesión ha expirado",
+        "LOGOUT_SUCCESS": "Cierre de sesión exitoso"
+    }
+}
