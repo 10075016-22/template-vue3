@@ -32,3 +32,9 @@ You must have previously installed the dependencies, for this you can use the co
 ```
 npm install
 ```
+
+## Gallery
+
+![Login](./documentation/img/LoginLight.png)
+
+![Home](./documentation/img/Home.png)
